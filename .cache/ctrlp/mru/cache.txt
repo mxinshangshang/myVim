@@ -1,0 +1,7 @@
+/home/mxin/.ssh/known_hosts
+/home/mxin/.ssh/id_rsa
+/home/mxin/.ssh/github
+/home/mxin/spf13-vim.sh
+/home/mxin/.vimrc
+/home/mxin/.vimrc.before
+/etc/samba/smb.conf
