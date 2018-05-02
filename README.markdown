@@ -1,4 +1,4 @@
-# spf13-vim : Steve Francia's Vim Distribution
+# Chiang mxin's Vim Distribution base on spf13-vim
 
                     __ _ _____              _
          ___ _ __  / _/ |___ /      __   __(_)_ __ ___
